@@ -1,6 +1,6 @@
 # FilmQueryProject
 
-![MOVIE IMAGE](~/SD/Java/Workspace/FilmQuery/images/movie.png)
+![MOVIE IMAGE](./images/movie.png)
 
 # Description
 You will create a command-line application that retrieves and displays film data. It will be menu-based, allowing the user to choose actions and submit query data.
@@ -107,3 +107,4 @@ looping through the array for the actors wasnt to bad, I kept getting 1 actor in
 ![MOVIE IMAGE](./images/movie.png)
 
 ZVZ
+
